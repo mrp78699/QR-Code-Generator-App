@@ -10,7 +10,7 @@ The QR Code Generator App is a simple yet powerful web application designed to c
 -  │
 -  ├── app.py
 -  └── templates/
--      └── index.html
+     └── index.html
 -  └── outputs/   # This folder might be empty or contain data you don't want to upload
 
 ## Features:
