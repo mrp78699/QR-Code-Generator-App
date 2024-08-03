@@ -4,6 +4,15 @@
 
 The QR Code Generator App is a simple yet powerful web application designed to create customizable QR codes. Users can input any text they wish to encode, such as URLs, contact information, or plain text messages. Additionally, the app allows customization of the QR code's appearance by enabling users to select the color of the QR code itself and the background.
 
+## Structure
+
+  qr_app/
+  │
+  ├── app.py
+  └── templates/
+      └── index.html
+  └── outputs/   # This folder might be empty or contain data you don't want to upload
+
 ## Features:
 
 - Text Input: Users can input the text or URL they want to encode in the QR code.
